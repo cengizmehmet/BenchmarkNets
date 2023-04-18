@@ -4,7 +4,7 @@ Predicting the performance and energy consumption of computing hardware is criti
 
 ## Cite Us
 
-This work first published in [Proceedings of the 14th ACM/SPEC International Conference on Performance Engineering (ICPE '23)]([https://dl.acm.org/doi/abs/10.1145/3427921.3450241](https://dl.acm.org/doi/proceedings/10.1145/3578244)). If you use our data or preprocessing scripts, please cite the following [bibkey](CITE.md):
+This work first published in Proceedings of the 14th ACM/SPEC International Conference on Performance Engineering (ICPE '23)([https://dl.acm.org/doi/abs/10.1145/3427921.3450241](https://dl.acm.org/doi/proceedings/10.1145/3578244)). If you use our data or preprocessing scripts, please cite the following [bibkey](CITE.md):
 
 	@inproceedings{10.1145/3578244.3583731, 
 	    author = {Cengiz, Mehmet and Forshaw, Matthew and Atapour-Abarghouei, Amir and McGough, Andrew Stephen}, 

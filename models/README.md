@@ -70,3 +70,15 @@ tmpfs           6.4G     0  6.4G   0% /proc/acpi
 tmpfs           6.4G     0  6.4G   0% /proc/scsi
 tmpfs           6.4G     0  6.4G   0% /sys/firmware
 
+| Filesystem | Size | Used | Avail | Use% | Mounted on            |
+|------------|------|------|-------|------|-----------------------|
+| overlay    | 226G | 24G  | 203G  | 11%  | /                     |
+| tmpfs      | 64M  | 0    | 64M   | 0%   | /dev                  |
+| shm        | 5.8G | 0    | 5.8G  | 0%   | /dev/shm              |
+| /dev/root  | 2.0G | 1.1G | 841M  | 58%  | /usr/sbin/docker-init |
+| tmpfs      | 6.4G | 7.5M | 6.4G  | 1%   | /var/colab            |
+| /dev/sda1  | 233G | 43G  | 190G  | 19%  | /etc/hosts            |
+| tmpfs      | 6.4G | 0    | 6.4G  | 0%   | /proc/acpi            |
+| tmpfs      | 6.4G | 0    | 6.4G  | 0%   | /proc/scsi            |
+| tmpfs      | 6.4G | 0    | 6.4G  | 0%   | /sys/firmware         |
+

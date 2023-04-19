@@ -55,10 +55,10 @@ Colab system specifications as of December 2022:
 >> * address sizes	: 46 bits physical, 48 bits virtual
 >> * power management:
 
-*GPU:
+* GPU:
 >* GPU 0: Tesla T4 (UUID: GPU-e8b9fd9c-ee42-d907-9a7f-87d1b6428bd3)
 
-*Storage:
+* Storage:
 
 | Filesystem | Size | Used | Avail | Use% | Mounted on            |
 |------------|------|------|-------|------|-----------------------|
